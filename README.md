@@ -85,8 +85,3 @@ src/
 2. Install dependencies with `npm install`. 📦
 3. Start the development server with `npm run dev`. 🚀
 4. Open `http://localhost:5173` in your browser. 🌐
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
