@@ -1,5 +1,3 @@
-Tamamdır! İşte projenizin README.md dosyasının genişletilmiş ve emojilerle süslenmiş hali:
-
 # 🌉 Königsberg Köprü Oyunu  / Konigsberg Bridge Game 🌉
 
 ## 🇹🇷 Türkçe Açıklama
@@ -92,5 +90,3 @@ content_copy
 download
 Use code with caution.
 IGNORE_WHEN_COPYING_END
-
-Umarım bu geliştirilmiş README dosyasını beğenirsiniz! Emojiler, okunabilirliği ve ilgiyi artırmaya yardımcı olur. 😊 Başka bir isteğiniz olursa, çekinmeyin!
